@@ -1,15 +1,14 @@
 # 🧛 Dracula IDA
-> Dracula Theme for IDA Pro.
-I was bored so I did it
-
 ![Theme](https://i.imgur.com/XbC3Nai.jpg)
+> Dracula Theme for IDA Pro.
 
-# How to use?
-- Download the `dracula-theme.clr` file
-- Open your IDA Pro
-- Go to `Options` > `Colors` > `Import`
-- Select the file
-- Done
+## How to use?
+1. Download the `dracula-theme.clr` file
+2. Open your IDA Pro
+3. Go to `Options` > `Colors` > `Import`
+4. Select the file (`dracula-theme.clr`)
+5. **Done!** 🎉
+<br><br>
 
 ## Credits
 Color palette - https://draculatheme.com/contribute/
