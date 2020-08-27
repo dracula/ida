@@ -1,6 +1,7 @@
 # 🧛 Dracula IDA
 ![Theme](https://i.imgur.com/XbC3Nai.jpg)
 > Dracula Theme for IDA Pro.
+<br><br>
 
 ## How to use?
 1. Download the `dracula-theme.clr` file
