@@ -1,6 +1,6 @@
-# Dracula for [IDA Pro](https://www.hex-rays.com/products/ida/)
+# Dracula for [IDA](https://www.hex-rays.com/products/ida/)
 
-> A dark theme for [IDA Pro](https://www.hex-rays.com/products/ida/).
+> A dark theme for [IDA](https://www.hex-rays.com/products/ida/).
 
 ![Screenshot](./screenshot.png)
 
