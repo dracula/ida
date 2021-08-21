@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/ida](https://draculatheme.com
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ida/graphs/contributors).
 
-[![oppsec](https://github.com/oppsec.png?size=100)](https://github.com/oppsec) |
+[![alwaysg0d](https://github.com/alwaysg0d.png?size=100)](https://github.com/alwaysg0d) |
 --- |
-[oppsec](https://github.com/oppsec) |
+[alwaysg0d](https://github.com/alwaysg0d) |
 
 ## License
 
