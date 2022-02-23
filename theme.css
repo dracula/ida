@@ -189,6 +189,7 @@ QTabBar::tab
 {
     background-color: #282a36;
     border-radius: 3px;
+    padding: 4px;
 }
 
 QTabBar::tab:selected
@@ -417,6 +418,14 @@ QTreeView
 QGroupBox
 {
     margin-top: 5px;
+}
+
+QGroupBox::title
+{
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    left: 7px;
+    padding: 0px 4px 0px 6px;
 }
 
 
