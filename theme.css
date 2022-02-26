@@ -86,6 +86,13 @@ CustomIDAMemo
 
 }
 
+/* search filter */
+TChooser
+{
+    qproperty-highlight-bg-default: #bd93f9;
+    qproperty-highlight-bg-selected: #bd93f9;
+}
+
 MainMsgList
 {
     color: #f8f8f2;
