@@ -106,6 +106,11 @@ TCpuRegs
     qproperty-register-edited: #b8077a;
 }
 
+TCpuRegs ui_label_t
+{
+    color: #8398d4;
+}
+
 TextArrows
 {
     qproperty-jump-in-function: #00b1ab;
